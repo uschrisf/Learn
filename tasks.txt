@@ -16,4 +16,4 @@ on the command line.
 7. Delete the 'new' directory and all its contents recursively with one command 
 
 8. Zip the folder into a new practice.zip file, make a new git commit, and 
-   push it to github.
+   push it to your own github repository. Send me the link to it.
