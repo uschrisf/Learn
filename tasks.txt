@@ -1,0 +1,19 @@
+1. Unzip the file by entering
+unzip practice.zip
+on the command line.
+
+2. Read the examples.txt file in the 'practice' directory
+
+3. Delete the practice.zip file
+
+4. Move the examples.txt file to the 'old' directory
+
+5. Move all the files starting with 'Blue' to the 'new' directory
+
+6. Combine the contents of all the files remaining in the 'practice' directory
+   and append them to this file (use >>)
+
+7. Delete the 'new' directory and all its contents recursively with one command 
+
+8. Zip the folder into a new practice.zip file, make a new git commit, and 
+   push it to github.
